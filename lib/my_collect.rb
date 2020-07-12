@@ -7,7 +7,7 @@ def my_collect(collection)
        i = i + 1
       end 
   new_conllection
-  else
+    else
     puts "No block was given!"
   end 
 end
