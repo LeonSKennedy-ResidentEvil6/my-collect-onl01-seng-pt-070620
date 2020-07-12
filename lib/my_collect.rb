@@ -13,7 +13,6 @@ def my_collect(collection)
 end
 
 
-
 languages = []
 students = []
 
