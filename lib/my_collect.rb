@@ -5,7 +5,7 @@ def my_collect(collection)
     while i < collection.length
     new_conllection << yield(collection[i])
      i = i + 1
-  end 
+    end 
   new_conllection
   else
     puts "No block was given!"
